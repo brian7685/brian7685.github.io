@@ -13,7 +13,6 @@ profile:
 
 news: true
 social: true
-selected_papers: true # includes a list of papers marked as "selected={true}"
 
 ---
 
