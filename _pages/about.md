@@ -21,5 +21,5 @@ During my Ph.D. period, I worked on the [DARPA AIDA project](https://www.darpa.m
 
 I also closely with [IBM Research](https://research.ibm.com/) and [MIT CSAIL](https://www.csail.mit.edu/person/jim-glass) on the Sight and Sound Project (2020 - ), aiming to learn useful representations from video and audio.
 
-Prior to joining Columbia, I finished my Master’s and Bachelors's at [National Taiwan University](https://www.csie.ntu.edu.tw/) studying computer science, advised by Prof. [Shou-de Lin](https://www.csie.ntu.edu.tw/~sdlin/). 
+Prior to joining Columbia, I finished my Master’s and Bachelors's at [National Taiwan University](https://www.csie.ntu.edu.tw/) major in Computer Science, advised by Prof. [Shou-de Lin](https://www.csie.ntu.edu.tw/~sdlin/). 
  
