@@ -2,8 +2,7 @@
 layout: about
 permalink: /
 title: About
-description: # Student in Computer Science at Columbia University @ [DVMM lab]()
-
+description:  Graduating in 2022, looking for research related job opportunity.
 profile:
   align: right
   image: prof_pic.jpg
