@@ -6,7 +6,9 @@ description:  Graduating in 2022, looking for a research related job opportunity
 profile:
   align: right
   image: prof_pic.jpg
-  address: 
+  address: 530 West 120 sth \\
+  New York, NY, 10025 \\
+  United States
 news: true
 social: true
 selected_papers: true # includes a list of papers marked as "selected={true}"
