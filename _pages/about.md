@@ -14,7 +14,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 
 ---
 
-I am a fifth-year Ph.D. student at [Dept. Of Computer Science, Columbia University](https://www.cs.columbia.edu/), in [DVMM lab](https://www.ee.columbia.edu/ln/dvmm/) advised by Prof. [Shih-Fu Chang](https://www.ee.columbia.edu/~sfchang/).
+I am a sixth-year Ph.D. at [Dept. Of Computer Science, Columbia University](https://www.cs.columbia.edu/), in [DVMM lab](https://www.ee.columbia.edu/ln/dvmm/) advised by Prof. [Shih-Fu Chang](https://www.ee.columbia.edu/~sfchang/).
 
 My research interests focus on `Computer Vision`, `Multimodal Learning`, and `Self-supervised Learning`. Particularly, I am interested in learning representations from videos.
 
