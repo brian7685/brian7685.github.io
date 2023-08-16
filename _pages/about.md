@@ -2,7 +2,7 @@
 layout: about
 permalink: /
 title: About
-description:  Graduating in 2022, looking for a research related job opportunity.
+description:  
 profile:
   align: right
   image: prof_pic.jpg
@@ -14,7 +14,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 
 ---
 
-I am a fifth-year Ph.D. student at [Dept. Of Computer Science, Columbia University](https://www.cs.columbia.edu/), in [DVMM lab](https://www.ee.columbia.edu/ln/dvmm/) advised by Prof. [Shih-Fu Chang](https://www.ee.columbia.edu/~sfchang/).
+I'm a visiting researcher at [Meta Reality Lab](https://about.meta.com/realitylabs/). I received my Ph.D. at [Dept. Of Computer Science, Columbia University](https://www.cs.columbia.edu/), in [DVMM lab](https://www.ee.columbia.edu/ln/dvmm/) advised by Prof. [Shih-Fu Chang](https://www.ee.columbia.edu/~sfchang/).
 
 My research interests focus on `Computer Vision`, `Multimodal Learning`, and `Self-supervised Learning`. Particularly, I am interested in learning representations from videos.
 
