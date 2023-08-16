@@ -18,7 +18,7 @@ I am a fifth-year Ph.D. student at [Dept. Of Computer Science, Columbia Universi
 
 My research interests focus on `Computer Vision`, `Multimodal Learning`, and `Self-supervised Learning`. Particularly, I am interested in learning representations from videos.
 
-During my Ph.D. period, I worked on the [DARPA AIDA project](https://www.darpa.mil/program/active-interpretation-of-disparate-alternatives), which mainly foucsed on incorporating cross-domain knowledge (images, videos, text, and audio) for knowledge graph construction.
+During my Ph.D. period, I worked on the [DARPA AIDA project](https://www.darpa.mil/program/active-interpretation-of-disparate-alternatives), which mainly focused on incorporating cross-domain knowledge (images, videos, text, and audio) for knowledge graph construction.
 
 I am closely working with [IBM Research](https://research.ibm.com/) and [MIT CSAIL](https://www.csail.mit.edu/person/jim-glass) on the Sight and Sound Project (since 2020 - ), aiming at learning representations from video and audio.
 
