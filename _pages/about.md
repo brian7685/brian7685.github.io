@@ -18,6 +18,8 @@ I'm a visiting researcher at [Meta Reality Lab](https://about.meta.com/realityla
 
 My research interests focus on `Computer Vision`, `Multimodal Learning`, and `Self-supervised Learning`. Particularly, I am interested in learning representations from videos.
 
+In Meta, I worked on a project to develop egocentric agents on [Aria](https://www.projectaria.com/) that understand everyday tasks specified in natural language and generate goal plans for further assistance. We leverage the large language model (LLM) [LLaMA2](https://ai.meta.com/llama/) and video training for zero-shot goal planning. Our model can generate future plans conditioned on the given video and input goals.
+
 During my Ph.D. period, I worked on the [DARPA AIDA project](https://www.darpa.mil/program/active-interpretation-of-disparate-alternatives), which mainly focused on incorporating cross-domain knowledge (images, videos, text, and audio) for knowledge graph construction.
 
 I am closely working with [IBM Research](https://research.ibm.com/) and [MIT CSAIL](https://www.csail.mit.edu/person/jim-glass) on the Sight and Sound Project (since 2020 - ), aiming at learning representations from video and audio.
