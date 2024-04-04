@@ -1,28 +1,25 @@
 ---
 layout: about
+title: about
 permalink: /
-title: About
-description:  
+subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+
 profile:
   align: right
   image: prof_pic.jpg
-  address: 
-     
-news: true
-social: true
-selected_papers: true # includes a list of papers marked as "selected={true}"
+  image_circular: false # crops the image to make it circular
+  more_info: >
+    <p>555 your office number</p>
+    <p>123 your address street</p>
+    <p>Your City, State 12345</p>
 
+news: true # includes a list of news items
+selected_papers: true # includes a list of papers marked as "selected={true}"
+social: true # includes social icons at the bottom of the page
 ---
 
-I'm a visiting researcher at [Meta Reality Lab](https://about.meta.com/realitylabs/)/[FAIR Embodied AI](https://ai.meta.com/). I received my Ph.D. at [Dept. Of Computer Science, Columbia University](https://www.cs.columbia.edu/), in [DVMM lab](https://www.ee.columbia.edu/ln/dvmm/) advised by Prof. [Shih-Fu Chang](https://www.ee.columbia.edu/~sfchang/).
+Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
-My research interests focus on `Computer Vision`, `Multimodal Learning`, and `Self-supervised Learning`. Particularly, I am interested in learning representations from videos.
+Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
-In Meta, I worked on a project to develop egocentric agents on [Aria](https://www.projectaria.com/) that understand everyday tasks specified in natural language and generate goal plans for further assistance. We leverage the large language model (LLM) [LLaMA2](https://ai.meta.com/llama/) and video training for zero-shot goal planning. Our model can generate future plans conditioned on the given video and input goals.
-
-During my Ph.D. period, I worked on the [DARPA AIDA project](https://www.darpa.mil/program/active-interpretation-of-disparate-alternatives), which mainly focused on incorporating cross-domain knowledge (images, videos, text, and audio) for knowledge graph construction.
-
-I am closely working with [IBM Research](https://research.ibm.com/) and [MIT CSAIL](https://www.csail.mit.edu/person/jim-glass) on the Sight and Sound Project (since 2020 - ), aiming at learning representations from video and audio.
-
-Prior to joining Columbia Univ., I finished my Bachelor and Master degrees at the Dept. of Computer Science and Information Eng., [National Taiwan University](https://www.csie.ntu.edu.tw/), in 2015 and 2017 respectively, advised by Prof. [Shou-De Lin](https://www.csie.ntu.edu.tw/~sdlin/). 
- 
+Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
