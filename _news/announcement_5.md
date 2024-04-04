@@ -5,4 +5,4 @@ inline: true
 ---
 
  Obtained Ph.D. at [Dept. Of Computer Science, Columbia University](https://www.cs.columbia.edu/). \\
- Advised by Prof. [Shih-Fu Chang](https://www.ee.columbia.edu/~sfchang/).
+ Advised by Prof. [Shih-Fu Chang](https://www.engineering.columbia.edu/faculty/shih-fu-chang).
